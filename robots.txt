@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://MiCentinela.github.io/readme-y24z8q/sitemap.xml
